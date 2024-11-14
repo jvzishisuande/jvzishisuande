@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="https://github.com/jvzishisuande"><img src="https://img.shields.io/badge/GitHub-jvzishisuande-blue?logo=github" />
+<a href="https://github.com/风信子没有梦"><img src="https://img.shields.io/badge/GitHub-jvzishisuande-blue?logo=github" />
 <a href="https://space.bilibili.com/1377023540"><img src="https://img.shields.io/badge/哔哩哔哩-风信子没有梦-pink?logo=bilibili" /></a>
 
 </p>
